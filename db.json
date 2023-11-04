@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Raj",
+      "class": "12",
+      "address": "ghazipur",
+      "email": "raj.singh@gmail.com",
+      "city": "ghazipur",
+      "password": "11223214245"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
